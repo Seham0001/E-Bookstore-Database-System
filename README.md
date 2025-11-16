@@ -1,12 +1,12 @@
 # E-Bookstore-Database-System
-SQL Project – Database for Data Science
+# SQL Project – Database for Data Science
 
 
 This project presents a complete SQL database system designed for the APU Bookstore as it transitions into online book retailing. The goal is to build a structured, efficient, and scalable database that supports membership registration, book management, online ordering, payment processing, and customer feedback.
 
 The project includes full database modeling, SQL implementation, and analytical SQL queries.
 
-📌 Project Overview
+# 📌 Project Overview
 
 The E-Bookstore Database System is developed to support the online operations of the APU Bookstore in Kuala Lumpur, Malaysia. As the bookstore expands into digital services, the system ensures smooth processes in:
 
@@ -26,7 +26,7 @@ Customer feedback and review submission
 
 This project demonstrates the complete lifecycle: analysis, design, database creation, data insertion, and business-driven SQL analysis.
 
-🗂️ Database Features
+# 🗂️ Database Features
 ✔ Key Entities
 
 The system includes the following main entities:
@@ -51,7 +51,7 @@ Shopping_Cart
 
 Feedback
 
-✔ What the system supports
+# ✔ What the system supports
 
 Unique member registration
 
@@ -69,7 +69,7 @@ Ratings and reviews (1–10 scale)
 
 Reporting for sales, inventory, and member activity
 
-📝 Business Rules
+# 📝 Business Rules
 
 Some of the main business rules implemented in the database include:
 
@@ -89,7 +89,7 @@ The manager can place orders with publishers and record incoming stock.
 
 Books are marked Available or Unavailable based on stock quantity.
 
-🧱 Database Structure
+# 🧱 Database Structure
 1. Entity Relationship Diagram (ERD)
 
 An ERD was designed using Chen / Crow’s Foot notation to define entities and their relationships.
@@ -98,7 +98,7 @@ An ERD was designed using Chen / Crow’s Foot notation to define entities and t
 
 Automatically generated from the DBMS to visualize tables, PK/FK relationships, and constraints.
 
-🛠️ SQL Implementation
+# 🛠️ SQL Implementation
 ✔ Data Definition Language (DDL)
 
 The DDL section includes:
@@ -117,7 +117,7 @@ Insertion of initial data into all tables
 
 All tables from the PDF are included and structured properly.
 
-📊 Data Manipulation Language (DML)
+# 📊 Data Manipulation Language (DML)
 
 The project includes several analytical SQL queries that extract insights, such as:
 
@@ -149,7 +149,7 @@ Genre of the book with the highest stock
 
 These queries demonstrate strong SQL knowledge in joins, aggregates, grouping, and filtering.
 
-🧰 Tools & Technologies
+# 🧰 Tools & Technologies
 
 SQL (DDL & DML)
 
